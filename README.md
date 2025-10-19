@@ -68,7 +68,7 @@ You need to have Python and pip installed on your system.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/anushasarkar-23/Predictive-Modeling-for-Early-Detection-of-Heart-Disease.git](https://github.com/anushasarkar-23/Predictive-Modeling-for-Early-Detection-of-Heart-Disease.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
